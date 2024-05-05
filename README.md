@@ -44,7 +44,7 @@ Time: Date and Time of Review
 Pictures : No. of pictures posted with review
 
 ## Notebook Breakdown:
-Business Problem Analysis
+* Business Problem Analysis
 Data Collection
 Data Cleaning and Preprocessing
 Feature Engineering
